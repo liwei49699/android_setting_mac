@@ -1,0 +1,10 @@
+<templateSet group="Android">
+  <template name="note" value="/**&#10; * @author: jintai&#10; * @time: $DATA$-$HOUR$:$MINUTE$&#10; * @Email: jintai@qccr.com&#10; * @desc:&#10; */" description="Activity注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HOUR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MINUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

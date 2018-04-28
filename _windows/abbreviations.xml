@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ToggleFullScreen">
+        <abbreviation name="full" />
+      </action>
+      <action id="FixDocComment" />
+    </abbreviations>
+  </component>
+</application>
