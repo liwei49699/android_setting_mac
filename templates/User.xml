@@ -1,0 +1,28 @@
+<templateSet group="User">
+  <template name="toast" value="android.widget.Toast.makeText($context$, &quot;$text$&quot;, Toast.LENGTH_SHORT).show();" description="显示输出信息" toReformat="false" toShortenFQNames="true">
+    <variable name="context" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sw" value="switch($expression$){&#10;&#10;    case $value$:&#10;        break;&#10;}" description="条件语句" toReformat="false" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue=".getId()" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tag" value="public static final String TAG = &quot;--main--&quot;;" description="标签''--main--&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="swid" value="switch($expression$.getId()){&#10;&#10;    case R.id.$value$:&#10;        break;&#10;}" description="条件id" toReformat="false" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

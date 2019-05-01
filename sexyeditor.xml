@@ -1,0 +1,20 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="C:\Users\Administrator\Desktop\代码背景\1.jpg" />
+              <option value="C:\Users\Administrator\Desktop\代码背景\2.jpg" />
+              <option value="C:\Users\Administrator\Desktop\代码背景\3.jpg" />
+              <option value="C:\Users\Administrator\Desktop\代码背景\4.jpg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.0" />
+          <option name="position" value="0" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
