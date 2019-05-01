@@ -1,22 +1,6 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="ContextHelp" />
-  <action id="ECTranslation">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
-  <action id="EditorChooseLookupItemReplace" />
-  <action id="EditorIndentSelection" />
-  <action id="EditorTab" />
-  <action id="ExpandLiveTemplateByTab" />
-  <action id="FixDocComment">
-    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="slash" />
-  </action>
-  <action id="NextParameter" />
-  <action id="NextTemplateParameter" />
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="s" />
+  <action id="Android.RunDdms">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -32,8 +16,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="f11" />
   </action>
 </keymap>

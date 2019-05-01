@@ -1,0 +1,156 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="Toast" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="rouiT" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="fbc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="foreach" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="Sfmt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="IntentView" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="ViewConstructors" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="rgS" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="wrapIt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="newInstance" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="noInstance" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="starter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="key" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="visible" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="ccode" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="cfalse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="clink" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="ctrue" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="fixme" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="noop" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidComments" />
+          <option name="key" value="stopship" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="logd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="loge" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="logi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="logw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="wtf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="logt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="logm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidLog" />
+          <option name="key" value="logr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="appNs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="toolsNs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lww" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lwm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lhw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lhm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AndroidXML" />
+          <option name="key" value="lh" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

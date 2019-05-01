@@ -1,0 +1,3 @@
+<templateSet group="CMake">
+  <template name="while" value="while($END$)&#10;    &#10;endwhile()" description="while()-loop" toReformat="true" toShortenFQNames="true" deactivated="true" />
+</templateSet>

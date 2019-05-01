@@ -1,12 +1,9 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="ActivateAndroidMonitorToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
+<keymap version="1" name="Eclipse diy" parent="Eclipse">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="ActivateTODOToolWindow" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt slash" />
-  </action>
-  <action id="HippieCompletion" />
+  <action id="Gsonformat" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>

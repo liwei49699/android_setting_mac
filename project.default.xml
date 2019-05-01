@@ -1,127 +1,65 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="D:/AndroidStudioProject/AboutLibraries" value="7148827439336" />
-            <entry key="D:/AndroidStudioProject/Android-CleanArchitecture" value="7260312449158" />
-            <entry key="D:/AndroidStudioProject/GankDagger2" value="4356191209788" />
-            <entry key="D:/AndroidStudioProject/GithubClient" value="4355961209095" />
-            <entry key="D:/AndroidStudioProject/LessCode" value="10003006958016" />
-            <entry key="D:/AndroidStudioProject/MVP-Dagger2-Retrofit" value="4355632158983" />
-            <entry key="D:/AndroidStudioProject/MaterialDesign/MaterialDialog" value="7150559955648" />
-            <entry key="D:/AndroidStudioProject/MaterialDesign/MaterialEditText" value="7148883023491" />
-            <entry key="D:/AndroidStudioProject/MaterialDesign/MaterialList" value="7148884277945" />
-            <entry key="D:/AndroidStudioProject/MaterialDesign/material-dialogs" value="5719367996456" />
-            <entry key="D:/AndroidStudioProject/PhotoNoter" value="5805777282004" />
-            <entry key="D:/AndroidStudioProject/RxAndroid" value="7144559964918" />
-            <entry key="D:/AndroidStudioProject/dagger2-example" value="4355628853241" />
-            <entry key="D:/AndroidStudioProject/dkjt" value="5720821928502" />
-            <entry key="D:/AndroidStudioProject/iosched" value="5716993089099" />
-            <entry key="D:/AndroidStudioProject/leakcanary-demo" value="4293996827691" />
-            <entry key="D:/AndroidStudioProject/philm" value="5709041062496" />
-            <entry key="D:/AndroidStudioProject/rxjava-webservice-example" value="4288795268381" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
-      <component name="MarkdownProjectSettings" wasCopied="true">
-        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.5" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
-          <PanelProvider>
-            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
-          </PanelProvider>
-        </PreviewSettings>
-        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
-          <PegdownExtensions>
-            <option name="ABBREVIATIONS" value="false" />
-            <option name="ANCHORLINKS" value="true" />
-            <option name="ASIDE" value="false" />
-            <option name="ATXHEADERSPACE" value="true" />
-            <option name="AUTOLINKS" value="true" />
-            <option name="DEFINITIONS" value="false" />
-            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
-            <option name="FENCED_CODE_BLOCKS" value="true" />
-            <option name="FOOTNOTES" value="false" />
-            <option name="HARDWRAPS" value="false" />
-            <option name="HTML_DEEP_PARSER" value="false" />
-            <option name="INSERTED" value="false" />
-            <option name="QUOTES" value="false" />
-            <option name="RELAXEDHRULES" value="true" />
-            <option name="SMARTS" value="false" />
-            <option name="STRIKETHROUGH" value="true" />
-            <option name="SUBSCRIPT" value="false" />
-            <option name="SUPERSCRIPT" value="false" />
-            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
-            <option name="SUPPRESS_INLINE_HTML" value="false" />
-            <option name="TABLES" value="true" />
-            <option name="TASKLISTITEMS" value="true" />
-            <option name="TOC" value="false" />
-            <option name="WIKILINKS" value="true" />
-          </PegdownExtensions>
-          <ParserOptions>
-            <option name="ADMONITION_EXT" value="false" />
-            <option name="ATTRIBUTES_EXT" value="false" />
-            <option name="COMMONMARK_LISTS" value="false" />
-            <option name="DUMMY" value="false" />
-            <option name="EMOJI_SHORTCUTS" value="true" />
-            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
-            <option name="FLEXMARK_FRONT_MATTER" value="false" />
-            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
-            <option name="GFM_TABLE_RENDERING" value="true" />
-            <option name="GITBOOK_URL_ENCODING" value="false" />
-            <option name="GITHUB_LISTS" value="true" />
-            <option name="GITHUB_WIKI_LINKS" value="true" />
-            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
-            <option name="JEKYLL_FRONT_MATTER" value="false" />
-            <option name="NO_TEXT_ATTRIBUTES" value="false" />
-            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
-            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
-          </ParserOptions>
-        </ParserSettings>
-        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false">
-          <GeneratorProvider>
-            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
-          </GeneratorProvider>
-          <headerTop />
-          <headerBottom />
-          <bodyTop />
-          <bodyBottom />
-        </HtmlSettings>
-        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
-          <StylesheetProvider>
-            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
-          </StylesheetProvider>
-          <ScriptProviders />
-          <cssText />
-          <cssUriHistory />
-        </CssSettings>
-        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
-        <LinkMapSettings>
-          <textMaps />
-        </LinkMapSettings>
-      </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-        <property name="last_opened_file_path" value="D:/Program Files (x86)/Git/bin/git.exe" />
-        <property name="android.sdk.path" value="D:/Android/SDK" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+          <module name="" />
+          <option name="DEPLOY" value="true" />
+          <option name="ARTIFACT_NAME" value="" />
+          <option name="PM_INSTALL_OPTIONS" value="" />
+          <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+          <option name="MODE" value="default_activity" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="DEBUGGER_TYPE" value="Java" />
+          <Java />
+          <Profilers>
+            <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+          </Profilers>
+          <option name="DEEP_LINK" value="" />
+          <option name="ACTIVITY_CLASS" value="" />
+          <method>
+            <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+            <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1556715168354" />
+          </method>
+        </configuration>
+        <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+          <module name="" />
+          <option name="TESTING_TYPE" value="0" />
+          <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+          <option name="METHOD_NAME" value="" />
+          <option name="CLASS_NAME" value="" />
+          <option name="PACKAGE_NAME" value="" />
+          <option name="EXTRA_OPTIONS" value="" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="DEBUGGER_TYPE" value="Java" />
+          <Java />
+          <Profilers>
+            <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+          </Profilers>
+          <method>
+            <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+            <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1556715168354" />
+          </method>
+        </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" />
@@ -137,6 +75,84 @@
           <envs />
           <method />
         </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="JarApplication" factoryName="JAR Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="SCRATCH_FILE_ID" value="0" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
         <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
           <option name="HTML_FILE_NAME" />
@@ -150,13 +166,11 @@
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
       </component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="VcsManagerConfiguration">
-        <option name="myTodoPanelSettings">
-          <TodoPanelSettings />
-        </option>
       </component>
       <component name="masterDetails">
         <states>
