@@ -1,0 +1,13 @@
+<application>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="CUSTOM" />
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="object" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
