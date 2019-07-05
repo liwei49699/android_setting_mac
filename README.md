@@ -1,2 +1,2 @@
 # StudioSetting
-AndroidStudio工具的一些样式配置
+AndroidStudioMac工具的一些样式配置
