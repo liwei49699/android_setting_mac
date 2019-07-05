@@ -1,0 +1,2 @@
+# android_setting_mac
+AndroidStudio的各种设置
